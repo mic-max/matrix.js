@@ -1,3 +1,7 @@
+body {
+	background-color: #000;	
+}
+
 #matrix {
 	position: fixed;
 	top: 0;
