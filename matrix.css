@@ -1,10 +1,10 @@
 body {
-	background-color: #000;	
+    background-color: #000;	
 }
 
 #matrix {
-	position: fixed;
-	top: 0;
-	left: 0;
-	z-index: -1;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
 }
